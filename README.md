@@ -1,3 +1,5 @@
+# Currently the project is on hold, since this mod is now became obsolete and is going to be rewritten at a later date. You probably want to use [Generator Accelerator 2](https://www.curseforge.com/minecraft/mc-mods/generator-accelerator) for light optimizations for now.
+
 # Lucis
 
 Lucis is a lightweight server-side light engine. It replaces expensive parts of the vanilla Minecraft lighting pipeline with a faster region-based system designed for high update throughput, faster chunk lighting and better scaling on multi-core CPUs allowing for faster worldgen and spawning massive structures without drastic TPS drops.
